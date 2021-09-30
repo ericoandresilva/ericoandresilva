@@ -5,7 +5,7 @@ Hello, my name is ***Erico Andre da Silva***, I am a person curious about new te
 By the way I am open to new ideas, new projects, if you want to talk to me feel free. You can contact me at 📫:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/erico-andre-12412196/)
-[![Gmail Badge](https://img.shields.io/badge/-ericoandresilva@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ericoandresilva@gmail.com)](mailto:ericoandresilva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ericoandresilva2014@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ericoandresilva2014@gmail.com)](mailto:ericoandresilva@gmail.com)
 
 ## 🔧 Technologies & Tools
 
